@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm NgoThanhNha</h1>
 <h3 align="center">I am passionate about embedded software development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngothanhnha&label=Profile%20views&color=0e75b6&style=flat" alt="ngothanhnha" /> </p>
+- I’m currently working on [EPCB Tech](https://epcb.vn/)
 
-- 🔭 I’m currently working on [EPCB Tech](https://epcb.vn/)
+- I’m currently learning **Event-Driven Programming**
 
-- 🌱 I’m currently learning Modern Embedded Software **Event-Driven Programming | Video courses: https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM**
-
-- 💬 Ask me about **ARM Cortex-M Microcontrollers**
-
-- 📫 How to reach me **ngothanhnha03022002@gmail.com**
+- Ask me about **ARM Cortex-M Microcontrollers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
